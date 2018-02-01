@@ -1,1 +1,1 @@
-# coal-pool-ui-
+# coal-pool-ui
